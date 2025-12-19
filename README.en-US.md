@@ -8,10 +8,10 @@ DREAM Docs - documents technologies.
 
 Key features of DREAM Docs:
 
-- Template
-- Reference
-- Learn
 - Guide
+- Learn
+- Reference
+- Template
 
 ## Install
 
