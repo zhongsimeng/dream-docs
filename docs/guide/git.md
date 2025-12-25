@@ -1,8 +1,16 @@
-# Git 命令示例
+# Git 指南
+
+Git is a [free and open source](https://git-scm.com/about/#free-and-open-source) distributed version control system designed to handle everything from small to very large projects with speed and efficiency.
+
+> Git 是一个[免费开源的](https://git-scm.com/about/#free-and-open-source) 分布式版本控制系统，旨在快速高效地处理从小到大的各种项目。
+
+Git is [lightning fast](https://git-scm.com/about) and has a huge ecosystem of [GUIs](https://git-scm.com/tools/guis), [hosting services](https://git-scm.com/tools/hosting), and [command-line tools](https://git-scm.com/tools/command-line).
+
+> Git速度极快，并且拥有庞大的 GUI、 托管服务和 命令行工具生态系统。
+
+## 命令示例
 
 Git 的一些常用命令示例。
-
-## 示例
 
 ### 示例：参与现有存储库
 
@@ -123,6 +131,9 @@ $ git push
 
 ## 参见
 
+* [Git](https://git-scm.com/)
+
 * [GitHub 和命令行](https://docs.github.com/zh/get-started/using-git/about-git#github-%E5%92%8C%E5%91%BD%E4%BB%A4%E8%A1%8C)
 
 * [Git 速查表](https://training.github.com/downloads/zh_CN/github-git-cheat-sheet/)
+
