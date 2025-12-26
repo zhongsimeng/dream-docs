@@ -1,4 +1,4 @@
-# Git 指南
+# Git Guides
 
 Git is a [free and open source](https://git-scm.com/about/#free-and-open-source) distributed version control system designed to handle everything from small to very large projects with speed and efficiency.
 
@@ -8,11 +8,11 @@ Git is [lightning fast](https://git-scm.com/about) and has a huge ecosystem of [
 
 > Git速度极快，并且拥有庞大的 GUI、 托管服务和 命令行工具生态系统。
 
-## 命令示例
+## 命令
 
 Git 的一些常用命令示例。
 
-### 示例：参与现有存储库
+**示例：参与现有存储库**
 
 ```
 # download a repository on GitHub to our machine
@@ -51,7 +51,7 @@ $ git commit -m "my snapshot"
 $ git push --set-upstream origin my-branch
 ```
 
-### 示例：启动新存储库并将其发布到 GitHub
+**示例：启动新存储库并将其发布到 GitHub**
 
 首先，你需要在 GitHub 上创建一个新的存储库。 
 
@@ -94,7 +94,7 @@ $ git remote add origin https://github.com/YOUR-USERNAME/YOUR-REPOSITORY-NAME.gi
 $ git push --set-upstream origin main
 ```
 
-### 示例：为 GitHub 上的现有分支做出贡献
+**示例：为 GitHub 上的现有分支做出贡献**
 
 此示例假定计算机上已有一个名为 `repo` 的项目，并且自上次在本地进行更改以来，已将新分支推送到 GitHub。
 

@@ -1,10 +1,10 @@
-# 许可证指南
+# Licese Guides
 
 An license protects contributors and users. Businesses and savvy developers won’t touch a project without this protection.
 
 > 许可证保护贡献者和用户。没有这种保护，企业和精明的开发者都不会碰一个项目。
 
-## 许可证分类
+## 类型
 
 ### Open Source（开源软件）
 
@@ -105,7 +105,7 @@ copyright: © 2025 DREAM
 ---
 ```
 
-## 许可证列表
+## 参考表
 
 | 许可证                           | 许可关键字           |
 | -------------------------------- | -------------------- |
