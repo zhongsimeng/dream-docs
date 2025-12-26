@@ -31,7 +31,7 @@ Please adhere to this project's[code of conduct](CODE_OF_CONDUCT.md).
 
 ## ⚖️ License
 
-This project is licensed under the MIT license.
+This project is licensed under the CC BY 4.0 license.
 
 See [LICENSE](LICENSE) for more information.
 

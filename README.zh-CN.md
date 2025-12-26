@@ -31,7 +31,7 @@ git clone https://gitee.com/zhongsimeng/dream-docs.git
 
 ## ⚖️ 许可证
 
-本项目遵循 MIT 许可证。
+本项目遵循 CC BY 4.0 许可证。
 
 请参阅[许可证](/LICENSE)以了解更多信息。
 
