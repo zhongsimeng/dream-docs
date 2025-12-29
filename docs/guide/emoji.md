@@ -1,4 +1,4 @@
-# Emoji guide/Emoji 指南
+# Emoji guide / Emoji 指南
 
 表情符号指南
 

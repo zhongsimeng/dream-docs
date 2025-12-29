@@ -1,4 +1,4 @@
-# 针对 MDN 文档的本地化指南
+# Writing local guide / 针对 MDN 文档的本地化指南
 
 本文是针对简体中文（zh-CN）文档的翻译指南。
 
