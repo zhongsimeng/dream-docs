@@ -134,3 +134,7 @@ Z
 | i.e.     | *id est*         | that is, in other words |
 | N.B.     | *nota bene*      | note well               |
 | P.S.     | *post scriptum*  | postscript              |
+
+## 参见
+
+* [简体中文 web 术语翻译对照表](https://github.com/mdn/translated-content/blob/main/docs/zh-cn/glossary.md)
