@@ -1,6 +1,8 @@
 
 
-# Git 速查表
+# Git cheat sheets/Git 速查表
+
+很快掌握所有可用的 Git 命令可能是一项艰巨的任务。 可以使用 [Git 速查表](https://training.github.com/)快速参考常用命令。
 
 ## 安装
 

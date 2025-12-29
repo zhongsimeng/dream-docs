@@ -1,4 +1,4 @@
-# Licese Guides
+# Licese guide/许可证指南
 
 An license protects contributors and users. Businesses and savvy developers won’t touch a project without this protection.
 
